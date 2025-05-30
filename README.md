@@ -23,10 +23,10 @@ To mimic the riluzole action, changes in the parameters of gNa and gK(Ca) will m
 
 Bard Ermentrout's website [http://www.pitt.edu/~phase/](http://www.pitt.edu/~phase/) describes how to get and use xpp (Bard wrote xpp).
 
-The model file was submitted by:
-Dr. Sheng-Nan Wu, Ya-Jean Wang
-Natl Cheng Kung U Med Coll
-Tainan 70101, Taiwan
+The model file was submitted by:  
+Dr. Sheng-Nan Wu, Ya-Jean Wang  
+Natl Cheng Kung U Med Coll  
+Tainan 70101, Taiwan  
 
 ---
 
